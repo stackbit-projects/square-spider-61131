@@ -28,8 +28,6 @@ sections:
     type: section_content
   - title: Trumpet player. Curious musician.
     section_id: lorem-ipsum
-    content: |
-      *
     actions: []
     type: section_hero
   - section_id: recent-posts
