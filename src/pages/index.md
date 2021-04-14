@@ -26,7 +26,7 @@ sections:
         no_follow: false
         type: action
     section_id: about
-  - title: lorem-ipsum
+  - title: Trumpet player. Curious musician.
     section_id: lorem-ipsum
     content: >
       ## ![](/images/melodic-coriander.JPG)
