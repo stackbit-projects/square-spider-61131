@@ -41,6 +41,7 @@ seo:
       relativeUrl: true
 template: post
 subtitle: test
+TAGS: 
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
