@@ -7,11 +7,22 @@ sections:
     title: Trumpet player. Curious musician.
   - section_id: about
     type: section_content
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I serve as principal trumpet of the Columbus Symphony Orchestra. I also
+      explore what it means "[to
+      music](https://en.wikipedia.org/wiki/Christopher_Small#Musicking)" on The
+      Curious Musician.
+
+
+      I’ve played for Darth Vader on the escalators of San Diego Comic Con.
+
+
+      I've told stories about robots and rocketships onstage at the New World
+      Center.
+
+
+      I'm probably best known for a video I made about the finer points of
+      “horse whinnying” on the trumpet.
     actions:
       - label: Contact Me
         url: /contact
