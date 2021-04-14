@@ -2,10 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - title: Trumpet player. Curious musician.
-    section_id: lorem-ipsum
-    actions: []
-    type: section_hero
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
