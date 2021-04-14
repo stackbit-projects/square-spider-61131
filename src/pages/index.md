@@ -20,7 +20,7 @@ sections:
         style: button
       - label: lorem-ipsum
         url: '#'
-        style: button
+        style: link
         icon_class: dev
         new_window: false
         no_follow: false
