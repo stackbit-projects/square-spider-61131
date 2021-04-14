@@ -7,6 +7,9 @@ sections:
     title: Trumpet player. Curious musician.
   - type: section_content
     content: >
+      # Trumpet player. Curious musician.
+
+
       I serve as principal trumpet of the Columbus Symphony Orchestra. I also
       explore what it means "[to
       music](https://en.wikipedia.org/wiki/Christopher_Small#Musicking)" on The
