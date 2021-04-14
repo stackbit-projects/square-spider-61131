@@ -6,6 +6,8 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
+    content: |
+      ![](/images/splendid-rosemary.JPG)
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
