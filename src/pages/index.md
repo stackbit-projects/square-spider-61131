@@ -24,6 +24,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
+    image: images/panoramic-steel.JPG
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     actions: []
