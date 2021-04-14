@@ -26,7 +26,7 @@ sections:
       “horse whinnying” on the trumpet.
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Trumpet player. Curious musician.
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
