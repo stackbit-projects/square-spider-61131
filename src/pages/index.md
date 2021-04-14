@@ -7,7 +7,7 @@ sections:
       ![](/images/polite-potato.JPG)
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: about me
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
