@@ -2,11 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
-    content: |
-      ![](/images/polite-potato.JPG)
-    actions: []
-    type: section_hero
   - title: about me
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
