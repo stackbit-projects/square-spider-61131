@@ -20,7 +20,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-    image: images/smart-moon.jpg
+    image: images/photo by mark grisez.JPG
   - section_id: about
     type: section_content
     content: >
