@@ -2,13 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - title: Trumpet player. Curious musician.
-    section_id: lorem-ipsum
-    content: |+
-      ## ![](/images/melodic-coriander.JPG)
-
-    actions: []
-    type: section_hero
   - title: trumpet player. curious musician.
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
