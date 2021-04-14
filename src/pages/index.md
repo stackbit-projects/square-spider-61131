@@ -28,17 +28,9 @@ sections:
     section_id: about
   - title: Trumpet player. Curious musician.
     section_id: lorem-ipsum
-    content: >
+    content: |+
       ## ![](/images/melodic-coriander.JPG)
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
     actions: []
     type: section_hero
   - section_id: recent-posts
