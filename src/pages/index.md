@@ -9,29 +9,6 @@ sections:
 
     actions: []
     type: section_hero
-  - type: section_content
-    content: >
-      I serve as principal trumpet of the Columbus Symphony Orchestra. I also
-      explore what it means "[to
-      music](https://en.wikipedia.org/wiki/Christopher_Small#Musicking)" on The
-      Curious Musician. I’ve played for Darth Vader on the escalators of San
-      Diego Comic Con. I've told stories about robots and rocketships onstage at
-      the New World Center. I'm probably best known for a video I made about the
-      finer points of “horse whinnying” on the trumpet.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
-      - label: Read Full Bio
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-    section_id: about
-    title: Trumpet player. Curious Musician.
-    image: images/parallel-pine.JPG
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
