@@ -13,7 +13,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ##
+      ## ![](/images/oval-amaranth.JPG)
 
 
       I serve as principal trumpet of the Columbus Symphony Orchestra. I also
