@@ -18,7 +18,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: Read Full Bio
         url: '#'
         style: link
         icon_class: dev
