@@ -2,6 +2,13 @@
 title: Home
 hide_title: true
 sections:
+  - title: Trumpet player. Curious musician.
+    section_id: lorem-ipsum
+    content: |+
+      ## ![](/images/melodic-coriander.JPG)
+
+    actions: []
+    type: section_hero
   - type: section_content
     content: >
       # Trumpet player. Curious musician.
@@ -26,13 +33,6 @@ sections:
         no_follow: false
         type: action
     section_id: about
-  - title: Trumpet player. Curious musician.
-    section_id: lorem-ipsum
-    content: |+
-      ## ![](/images/melodic-coriander.JPG)
-
-    actions: []
-    type: section_hero
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
