@@ -2,9 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_hero
-    title: Trumpet player. Curious musician.
   - type: section_content
     content: >
       # Trumpet player. Curious musician.
