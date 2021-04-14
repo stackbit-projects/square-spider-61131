@@ -36,6 +36,9 @@ export default class Post extends React.Component {
                 )}
                 <div className="post-content inner-sm">
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
+                  <div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5714296759648256-proj')</script>
                 </div>
                 <footer className="post-meta inner-sm">
                   <time className="published"
