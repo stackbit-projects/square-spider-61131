@@ -5,13 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Trumpet player. Curious musician.
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      *
-    actions: []
-    type: section_content
-    image: images/photo by mark grisez.JPG
   - section_id: about
     type: section_content
     content: >
