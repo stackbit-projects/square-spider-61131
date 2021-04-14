@@ -30,6 +30,9 @@ export default class SectionPosts extends React.Component {
                       <div className="post-content">
                         <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
                       </div>
+                      <div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5714296759648256-proj')</script>
                       )}
                       <footer className="post-meta">
                         <time className="published"
