@@ -29,11 +29,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "join email list",
                 "url": "#",
                 "style": "button",
@@ -41,6 +36,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
             }
         ],
         "has_social": true,
