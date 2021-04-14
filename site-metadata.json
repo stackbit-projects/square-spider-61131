@@ -24,19 +24,19 @@
                 "style": "link"
             },
             {
-                "label": "join email list",
-                "url": "#",
-                "style": "button",
-                "icon_class": "instagram",
+                "label": "contact",
+                "url": "/contact",
+                "style": "link",
+                "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
             },
             {
-                "label": "contact",
-                "url": "/contact",
-                "style": "link",
-                "icon_class": "dev",
+                "label": "join email list",
+                "url": "#",
+                "style": "button",
+                "icon_class": "instagram",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
