@@ -2,6 +2,10 @@
 title: Home
 hide_title: true
 sections:
+  - title: Trumpet player. Curious musician.
+    section_id: lorem-ipsum
+    actions: []
+    type: section_hero
   - title: trumpet player. curious musician.
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -26,10 +30,6 @@ sections:
       “horse whinnying” on the trumpet.
     actions: []
     type: section_content
-  - title: Trumpet player. Curious musician.
-    section_id: lorem-ipsum
-    actions: []
-    type: section_hero
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
