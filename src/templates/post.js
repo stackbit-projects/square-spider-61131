@@ -39,9 +39,7 @@ export default class Post extends React.Component {
                   
                 </div>
                 <footer className="post-meta inner-sm">
-                    <div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>commentBox('5714296759648256-proj')</script>
+                    
                   <time className="published"
                     dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%A, %B %e, %Y')}</time>
                 </footer>
