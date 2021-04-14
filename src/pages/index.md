@@ -20,6 +20,7 @@ sections:
         style: button
     title: About
     image: images/mighty-moon.JPG
+    section_id: about
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
