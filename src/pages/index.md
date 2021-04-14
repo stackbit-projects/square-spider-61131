@@ -30,6 +30,7 @@ sections:
         no_follow: false
         type: action
     section_id: about
+    title: Trumpet player. Curious Musician.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
