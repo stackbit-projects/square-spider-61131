@@ -29,7 +29,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: >
-      ##
+      ## ![](/images/melodic-coriander.JPG)
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
