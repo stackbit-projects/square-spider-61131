@@ -11,8 +11,8 @@ sections:
       ![](/images/cool-sycamore.JPG)
 
 
-      and I serve as principal trumpet of the Columbus Symphony Orchestra. I
-      also explore what it means "[to
+      I serve as principal trumpet of the Columbus Symphony Orchestra. I also
+      explore what it means "[to
       music](https://en.wikipedia.org/wiki/Christopher_Small#Musicking)" on The
       Curious Musician. I’ve played for Darth Vader on the escalators of San
       Diego Comic Con. I've told stories about robots and rocketships onstage at
