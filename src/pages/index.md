@@ -25,7 +25,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image: images/mighty-moon.JPG
     section_id: about
   - section_id: recent-posts
     type: section_posts
