@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "join email list",
                 "url": "#",
                 "style": "button",
