@@ -6,8 +6,7 @@ sections:
     section_id: lorem-ipsum
     actions: []
     type: section_hero
-  - title: trumpet player. curious musician.
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       ## ![](/images/oval-amaranth.JPG)
