@@ -18,7 +18,6 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-    title: none
     image: images/mighty-moon.JPG
     section_id: about
   - section_id: recent-posts
