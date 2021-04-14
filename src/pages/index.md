@@ -22,7 +22,7 @@ sections:
         type: action
     type: section_content
     image: images/panoramic-steel.JPG
-  - title: lorem-ipsum
+  - title: Trumpet player. Curious musician.
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
