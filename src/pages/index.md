@@ -15,7 +15,14 @@ sections:
       Diego Comic Con. I've told stories about robots and rocketships onstage at
       the New World Center. I'm probably best known for a video I made about the
       finer points of “horse whinnying” on the trumpet.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
