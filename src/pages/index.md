@@ -5,7 +5,10 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      # My name is Mark Grisez,
+      # My name is Mark Grisez.
+
+
+      ![](/images/cool-sycamore.JPG)
 
 
       and I serve as principal trumpet of the Columbus Symphony Orchestra. I
