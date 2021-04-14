@@ -16,7 +16,7 @@ sections:
       the New World Center. I'm probably best known for a video I made about the
       finer points of “horse whinnying” on the trumpet.
     actions:
-      - label: lorem-ipsum
+      - label: read more
         url: '#'
         style: button
         icon_class: dev
