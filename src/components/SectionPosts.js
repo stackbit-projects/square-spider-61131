@@ -34,6 +34,9 @@ export default class SectionPosts extends React.Component {
                       )}
                       
                       <footer className="post-meta">
+                          <div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5714296759648256-proj')</script>
                         <time className="published"
                           dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d, %Y')}</time>
                       </footer>
