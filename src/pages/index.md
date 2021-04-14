@@ -28,17 +28,17 @@ sections:
     section_id: about
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Trumpet player. Curious musician.&#xA;![](/images/fierce-apple.JPG)
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     type: section_hero
   - section_id: recent-posts
