@@ -9,7 +9,7 @@ sections:
 
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: trumpet player. curious musician.
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
