@@ -21,6 +21,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/smart-moon.jpg
   - section_id: about
     type: section_content
     content: >
