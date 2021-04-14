@@ -5,8 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Trumpet player. Curious musician.
-  - section_id: about
-    type: section_content
+  - type: section_content
     content: >
       I serve as principal trumpet of the Columbus Symphony Orchestra. I also
       explore what it means "[to
