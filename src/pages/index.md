@@ -26,17 +26,22 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      I serve as principal trumpet of the Columbus Symphony Orchestra. I also
+      explore what it means "[to
+      music](https://en.wikipedia.org/wiki/Christopher_Small#Musicking)" on The
+      Curious Musician.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      I’ve played for Darth Vader on the escalators of San Diego Comic Con.
 
 
-      - Lorem ipsum
+      I've told stories about robots and rocketships onstage at the New World
+      Center.
 
-      - dolor sit amet
+
+      I'm probably best known for a video I made about the finer points of
+      “horse whinnying” on the trumpet.
     actions: []
     type: section_content
   - section_id: lorem-ipsum
