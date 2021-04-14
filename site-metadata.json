@@ -9,15 +9,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "join email list",
-                "url": "#",
-                "style": "button",
-                "icon_class": "instagram",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -41,6 +32,15 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
+            },
+            {
+                "label": "join email list",
+                "url": "#",
+                "style": "button",
+                "icon_class": "instagram",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_social": true,
