@@ -22,6 +22,7 @@ sections:
         type: action
     type: section_content
     image: images/panoramic-steel.JPG
+    title: my name is mark
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     actions: []
