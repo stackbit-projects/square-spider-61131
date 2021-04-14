@@ -5,8 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Trumpet player. Curious musician.
-    content: |
-      and 
   - section_id: about
     type: section_content
     content: >-
